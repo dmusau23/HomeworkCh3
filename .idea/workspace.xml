@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="304b1a16-8a25-478f-b831-95fc47a1e607" name="Changes" comment="">
+    <list default="true" id="304b1a16-8a25-478f-b831-95fc47a1e607" name="Changes" comment="Latest Update">
+      <change afterPath="$PROJECT_DIR$/src/Exercice2/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercice2/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercice2/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercice2/ThingsThatFly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercice3/Airplane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercice3/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercice3/Flight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercice3/Movement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercice3/ThingsThatMove.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercice1/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercice1/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/Cow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercice1/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exercice1/FarmAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/FarmAnimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercice1/MyFarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/MyFarm.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +26,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -40,7 +46,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.MyFarm.executor": "Run",
+    "Application.ThingsThatFly.executor": "Run",
+    "Application.ThingsThatMove.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -53,7 +62,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ThingsThatMove">
     <configuration name="MyFarm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exercice1.MyFarm" />
       <module name="Homework Ch3" />
@@ -67,8 +76,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThingsThatFly" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercice2.ThingsThatFly" />
+      <module name="Homework Ch3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercice2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThingsThatMove" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercice3.ThingsThatMove" />
+      <module name="Homework Ch3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exercice3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThingsThatMove" />
+        <item itemvalue="Application.ThingsThatFly" />
         <item itemvalue="Application.MyFarm" />
       </list>
     </recent_temporary>
@@ -81,11 +118,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709157510522</updated>
-      <workItem from="1709157511602" duration="3523000" />
+      <workItem from="1709157511602" duration="9027000" />
     </task>
+    <task id="LOCAL-00001" summary="Latest Update">
+      <option name="closed" value="true" />
+      <created>1709174423481</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1709174423481</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Latest Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Latest Update" />
   </component>
 </project>
