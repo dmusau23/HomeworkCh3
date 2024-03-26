@@ -4,18 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="304b1a16-8a25-478f-b831-95fc47a1e607" name="Changes" comment="Latest Update">
-      <change afterPath="$PROJECT_DIR$/src/Exercice2/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice2/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice2/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice2/ThingsThatFly.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice3/Airplane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice3/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice3/Flight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice3/Movement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercice3/ThingsThatMove.java" afterDir="false" />
+    <list default="true" id="304b1a16-8a25-478f-b831-95fc47a1e607" name="Changes" comment="Second update">
+      <change afterPath="$PROJECT_DIR$/Class UML.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Class UML.vsdx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice1/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/Chicken.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice1/Cow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/Cow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice1/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice1/FarmAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/FarmAnimal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Exercice1/MyFarm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice1/MyFarm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice2/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice2/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice2/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice2/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice2/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice2/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice2/ThingsThatFly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice2/ThingsThatFly.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice3/Airplane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice3/Airplane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice3/Bird.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice3/Bird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice3/Flight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice3/Flight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice3/Movement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice3/Movement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercice3/ThingsThatMove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercice3/ThingsThatMove.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709157510522</updated>
-      <workItem from="1709157511602" duration="9027000" />
+      <workItem from="1709157511602" duration="19635000" />
     </task>
     <task id="LOCAL-00001" summary="Latest Update">
       <option name="closed" value="true" />
@@ -128,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709174423481</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second update">
+      <option name="closed" value="true" />
+      <created>1710797329863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710797329863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +151,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Latest Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Latest Update" />
+    <MESSAGE value="Second update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second update" />
   </component>
 </project>
